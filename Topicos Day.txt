@@ -7,3 +7,9 @@ Assuntos abordados sobre P.I Pra Pet's
 1. Atualizações da tela do aplicativo.
 2. Realizada a documentação da Tela de Cadastro e inclusão de ícones no campo senha.
 3. Realizada a documentação da Tela Principal.
+
+Reunião em 04.09.2024
+
+1. A equipe está verificando a possibilidade de criação do site PraPet's.
+2. Realizada a documentação da Tela Principal.
+3. Revisando a modelagem do banco de dados do projeto.
